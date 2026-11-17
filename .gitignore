@@ -1,0 +1,5 @@
+target/*
+!target/egyptian-plate-extractor.jar
+resultados/
+.idea/
+*.iml
