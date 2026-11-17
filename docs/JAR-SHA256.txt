@@ -1,0 +1,1 @@
+822bb9195f3b62eaf1f3139222af45a310c51cff6301c10390e509863d54f4d0  target/egyptian-plate-extractor.jar

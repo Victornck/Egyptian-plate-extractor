@@ -1,0 +1,97 @@
+# Compilação: javac javac 21.0.12.1 --release 17 -Xlint:all
+# principal: 28 classes, 0 avisos
+# testes: JUnit Jupiter 5.11.4, motor acionado diretamente (Maven Central indisponível no ambiente)
+OK   ProcessamentoTest :: [1] jpg
+OK   ProcessamentoTest :: [2] jpeg
+OK   ProcessamentoTest :: [3] png
+OK   ProcessamentoTest :: [4] JPG
+OK   ProcessamentoTest :: [5] PNG
+OK   ProcessamentoTest :: loteContinuaAposFalhaENaoSobrescreve()
+OK   ProcessamentoTest :: reprocessamentoSemPlacaRemoveRecorteAnterior()
+OK   ProcessamentoTest :: rejeitaArquivoInexistente()
+OK   ProcessamentoTest :: rejeitaFormatoNaoSuportado()
+OK   ProcessamentoTest :: menuHistoricoConfiguracaoESaida()
+OK   ProcessamentoTest :: menuEncerraNoFimDaEntrada()
+OK   ProcessamentoTest :: convertePixelsSemOpenCvCvtColor()
+OK   ProcessamentoTest :: [1] NaN
+OK   ProcessamentoTest :: [2] Infinity
+OK   ProcessamentoTest :: [3] -1
+OK   ProcessamentoTest :: [4] 1.5
+OK   ProcessamentoTest :: [5] 4
+OK   ProcessamentoTest :: cliRetornaCodigosCorretos()
+OK   ProcessamentoTest :: rejeitaConfiguracaoDesconhecidaEmArquivo()
+OK   ProcessamentoTest :: validaRelacoesEParametrosDesconhecidos()
+OK   ProcessamentoTest :: persisteConfiguracao()
+OK   ProcessamentoTest :: rejeitaJpegTruncado()
+OK   ProcessamentoTest :: rejeitaConteudoDisfarcado()
+OK   ProcessamentoTest :: rejeitaImagemCorrompida()
+OK   ProcessamentoTest :: aceitaJpegComDadosAdicionaisAposFimDaImagem()
+OK   ProcessamentoTest :: erroDeGravacaoNaoRetornaSucesso()
+OK   ProcessamentoTest :: converteSubmatrizNaoContinua()
+OK   ProcessamentoTest :: respeitaLimiteDePixels()
+OK   ProcessamentoTest :: informaAusenciaDePlacaEGravaIntermediarias()
+OK   ProcessamentoTest :: listaLoteComRecursaoEExcluiSaida()
+OK   ProcessamentoTest :: rejeitaPngComChecksumInvalido()
+OK   FotografiasTest :: gravaArquivosComNomeDaImagem()
+OK   FotografiasTest :: [1] original
+OK   FotografiasTest :: [2] escura
+OK   FotografiasTest :: [3] pequena
+OK   FotografiasTest :: [4] grande
+OK   FotografiasTest :: [5] inclinada
+OK   FotografiasTest :: [6] sem_cor
+OK   FotografiasTest :: [1] astronaut.png
+OK   FotografiasTest :: [2] camera.png
+OK   FotografiasTest :: [3] coffee.png
+OK   FotografiasTest :: [4] grass.png
+OK   FotografiasTest :: refinamentoRemoveReflexoUnidoAFaixa()
+OK   FotografiasTest :: [1] 1
+OK   FotografiasTest :: [2] 2
+OK   FotografiasTest :: [3] 3
+OK   FotografiasTest :: [4] 4
+OK   FotografiasTest :: [5] 5
+OK   FotografiasTest :: [6] 6
+OK   FotografiasTest :: [7] 7
+OK   FotografiasTest :: [8] 8
+OK   FotografiasTest :: [9] 9
+OK   FotografiasTest :: [10] 10
+OK   FotografiasTest :: [11] 11
+OK   FotografiasTest :: [12] 12
+OK   FotografiasTest :: [13] 13
+OK   FotografiasTest :: [14] 14
+OK   FotografiasTest :: [15] 15
+OK   FotografiasTest :: [16] 16
+OK   FotografiasTest :: [17] 17
+OK   FotografiasTest :: [18] 18
+OK   FotografiasTest :: [19] 19
+OK   FotografiasTest :: [20] 20
+OK   FotografiasTest :: [21] 21
+OK   FotografiasTest :: [22] 22
+OK   FotografiasTest :: [23] 23
+OK   FotografiasTest :: [24] 24
+OK   FotografiasTest :: [25] 25
+OK   FotografiasTest :: [26] 26
+OK   FotografiasTest :: [27] 27
+OK   FotografiasTest :: [28] 28
+OK   FotografiasTest :: [29] 29
+OK   FotografiasTest :: [30] 30
+OK   FotografiasTest :: [31] 31
+OK   FotografiasTest :: [32] 32
+OK   FotografiasTest :: [33] 33
+OK   FotografiasTest :: [34] 34
+OK   FotografiasTest :: [35] 35
+OK   FotografiasTest :: [36] 36
+OK   FotografiasTest :: [37] 37
+OK   FotografiasTest :: [38] 38
+OK   FotografiasTest :: [39] 39
+OK   FotografiasTest :: [40] 40
+OK   FotografiasTest :: [41] 41
+OK   FotografiasTest :: [42] 42
+OK   FotografiasTest :: [43] 43
+OK   FotografiasTest :: [44] 44
+OK   FotografiasTest :: [45] 45
+OK   FotografiasTest :: [46] 46
+OK   FotografiasTest :: [47] 47
+OK   FotografiasTest :: [48] 48
+OK   FotografiasTest :: [49] 49
+OK   FotografiasTest :: [50] 50
+TOTAL ok=93 fail=0 skip=0

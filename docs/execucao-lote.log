@@ -1,0 +1,3044 @@
+===============================================
+EGYPTIAN LICENSE PLATE EXTRACTOR
+
+===============================================
+[LOTE] Imagem 1 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_001.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 162 x 96 -> 156 x 91 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_001.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 412
+Y: 742
+Largura: 156
+Altura: 91
+Pontuação heurística: 0.950
+
+Arquivo gerado:
+resultados/placas/img_001_placa.png
+
+Imagem anotada:
+resultados/processadas/img_001_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_001_*.png
+Relatório:
+resultados/relatorios/img_001_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 2 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_002.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3468 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 673 x 340 -> 665 x 311 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_002.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1499
+Y: 2820
+Largura: 665
+Altura: 311
+Pontuação heurística: 0.956
+
+Arquivo gerado:
+resultados/placas/img_002_placa.png
+
+Imagem anotada:
+resultados/processadas/img_002_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_002_*.png
+Relatório:
+resultados/relatorios/img_002_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 3 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_003.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 176 x 95 -> 176 x 86 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_003.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 493
+Y: 806
+Largura: 176
+Altura: 86
+Pontuação heurística: 0.926
+
+Arquivo gerado:
+resultados/placas/img_003_placa.png
+
+Imagem anotada:
+resultados/processadas/img_003_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_003_*.png
+Relatório:
+resultados/relatorios/img_003_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 4 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_004.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3472 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 298 x 152 -> 299 x 147 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_004.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1565
+Y: 2077
+Largura: 299
+Altura: 147
+Pontuação heurística: 0.853
+
+Arquivo gerado:
+resultados/placas/img_004_placa.png
+
+Imagem anotada:
+resultados/processadas/img_004_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_004_*.png
+Relatório:
+resultados/relatorios/img_004_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 5 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_005.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2920 x 3439 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 396 x 196 -> 399 x 197 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_005.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1186
+Y: 1632
+Largura: 399
+Altura: 197
+Pontuação heurística: 0.917
+
+Arquivo gerado:
+resultados/placas/img_005_placa.png
+
+Imagem anotada:
+resultados/processadas/img_005_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_005_*.png
+Relatório:
+resultados/relatorios/img_005_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 6 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_006.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2900 x 4038 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 550 x 280 -> 545 x 271 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_006.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1147
+Y: 2511
+Largura: 545
+Altura: 271
+Pontuação heurística: 0.932
+
+Arquivo gerado:
+resultados/placas/img_006_placa.png
+
+Imagem anotada:
+resultados/processadas/img_006_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_006_*.png
+Relatório:
+resultados/relatorios/img_006_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 7 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_007.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 749 x 749 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (6 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 186 x 94 -> 182 x 92 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_007.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 294
+Y: 326
+Largura: 182
+Altura: 92
+Pontuação heurística: 0.926
+
+Arquivo gerado:
+resultados/placas/img_007_placa.png
+
+Imagem anotada:
+resultados/processadas/img_007_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_007_*.png
+Relatório:
+resultados/relatorios/img_007_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 8 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_008.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 134 x 71 -> 132 x 66 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_008.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 537
+Y: 698
+Largura: 132
+Altura: 66
+Pontuação heurística: 0.854
+
+Arquivo gerado:
+resultados/placas/img_008_placa.png
+
+Imagem anotada:
+resultados/processadas/img_008_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_008_*.png
+Relatório:
+resultados/relatorios/img_008_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 9 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_009.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2796 x 3720 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 443 x 233 -> 433 x 213 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_009.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1248
+Y: 2084
+Largura: 433
+Altura: 213
+Pontuação heurística: 0.946
+
+Arquivo gerado:
+resultados/placas/img_009_placa.png
+
+Imagem anotada:
+resultados/processadas/img_009_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_009_*.png
+Relatório:
+resultados/relatorios/img_009_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 10 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_010.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 224 x 114 -> 218 x 91 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_010.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 405
+Y: 716
+Largura: 218
+Altura: 91
+Pontuação heurística: 0.933
+
+Arquivo gerado:
+resultados/placas/img_010_placa.png
+
+Imagem anotada:
+resultados/processadas/img_010_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_010_*.png
+Relatório:
+resultados/relatorios/img_010_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 11 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_011.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 167 x 94 -> 161 x 84 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_011.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 468
+Y: 736
+Largura: 161
+Altura: 84
+Pontuação heurística: 0.955
+
+Arquivo gerado:
+resultados/placas/img_011_placa.png
+
+Imagem anotada:
+resultados/processadas/img_011_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_011_*.png
+Relatório:
+resultados/relatorios/img_011_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 12 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_012.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3472 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (5 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 654 x 321 -> 657 x 284 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_012.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1570
+Y: 2109
+Largura: 657
+Altura: 284
+Pontuação heurística: 0.950
+
+Arquivo gerado:
+resultados/placas/img_012_placa.png
+
+Imagem anotada:
+resultados/processadas/img_012_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_012_*.png
+Relatório:
+resultados/relatorios/img_012_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 13 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_013.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3468 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 998 x 459 -> 680 x 365 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_013.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1291
+Y: 2828
+Largura: 680
+Altura: 365
+Pontuação heurística: 0.871
+
+Arquivo gerado:
+resultados/placas/img_013_placa.png
+
+Imagem anotada:
+resultados/processadas/img_013_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_013_*.png
+Relatório:
+resultados/relatorios/img_013_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 14 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_014.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: nenhuma candidata atingiu os critérios (0 avaliadas).
+
+[6/6] Extração não realizada: nenhuma candidata atingiu os critérios.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_014.jpg
+
+Placa encontrada: NÃO
+
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+
+Imagem anotada:
+resultados/processadas/img_014_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_014_*.png
+Relatório:
+resultados/relatorios/img_014_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 15 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_015.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2782 x 3658 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (17 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 574 x 286 -> 573 x 313 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_015.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1122
+Y: 1731
+Largura: 573
+Altura: 313
+Pontuação heurística: 0.917
+
+Arquivo gerado:
+resultados/placas/img_015_placa.png
+
+Imagem anotada:
+resultados/processadas/img_015_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_015_*.png
+Relatório:
+resultados/relatorios/img_015_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 16 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_016.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3072 x 4096 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 237 x 107 -> 241 x 114 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_016.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1245
+Y: 1500
+Largura: 241
+Altura: 114
+Pontuação heurística: 0.800
+
+Arquivo gerado:
+resultados/placas/img_016_placa.png
+
+Imagem anotada:
+resultados/processadas/img_016_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_016_*.png
+Relatório:
+resultados/relatorios/img_016_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 17 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_017.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 103 x 48 -> 106 x 57 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_017.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 622
+Y: 800
+Largura: 106
+Altura: 57
+Pontuação heurística: 0.886
+
+Arquivo gerado:
+resultados/placas/img_017_placa.png
+
+Imagem anotada:
+resultados/processadas/img_017_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_017_*.png
+Relatório:
+resultados/relatorios/img_017_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 18 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_018.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 750 x 750 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 117 x 58 -> 115 x 64 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_018.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 268
+Y: 253
+Largura: 115
+Altura: 64
+Pontuação heurística: 0.859
+
+Arquivo gerado:
+resultados/placas/img_018_placa.png
+
+Imagem anotada:
+resultados/processadas/img_018_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_018_*.png
+Relatório:
+resultados/relatorios/img_018_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 19 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_019.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 204 x 101 -> 198 x 85 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_019.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 463
+Y: 857
+Largura: 198
+Altura: 85
+Pontuação heurística: 0.914
+
+Arquivo gerado:
+resultados/placas/img_019_placa.png
+
+Imagem anotada:
+resultados/processadas/img_019_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_019_*.png
+Relatório:
+resultados/relatorios/img_019_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 20 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_020.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2270 x 2821 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 227 x 118 -> 222 x 110 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_020.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 977
+Y: 1585
+Largura: 222
+Altura: 110
+Pontuação heurística: 0.946
+
+Arquivo gerado:
+resultados/placas/img_020_placa.png
+
+Imagem anotada:
+resultados/processadas/img_020_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_020_*.png
+Relatório:
+resultados/relatorios/img_020_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 21 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_021.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 720 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 346 x 139 -> 207 x 109 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_021.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 291
+Y: 826
+Largura: 207
+Altura: 109
+Pontuação heurística: 0.843
+
+Arquivo gerado:
+resultados/placas/img_021_placa.png
+
+Imagem anotada:
+resultados/processadas/img_021_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_021_*.png
+Relatório:
+resultados/relatorios/img_021_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 22 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_022.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3072 x 4096 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 260 x 136 -> 260 x 134 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_022.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1270
+Y: 2047
+Largura: 260
+Altura: 134
+Pontuação heurística: 0.856
+
+Arquivo gerado:
+resultados/placas/img_022_placa.png
+
+Imagem anotada:
+resultados/processadas/img_022_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_022_*.png
+Relatório:
+resultados/relatorios/img_022_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 23 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_023.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2464 x 3280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 177 x 92 -> 177 x 91 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_023.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1013
+Y: 1364
+Largura: 177
+Altura: 91
+Pontuação heurística: 0.754
+
+Arquivo gerado:
+resultados/placas/img_023_placa.png
+
+Imagem anotada:
+resultados/processadas/img_023_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_023_*.png
+Relatório:
+resultados/relatorios/img_023_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 24 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_024.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3471 x 4620 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 840 x 438 -> 821 x 350 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_024.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1320
+Y: 2204
+Largura: 821
+Altura: 350
+Pontuação heurística: 0.971
+
+Arquivo gerado:
+resultados/placas/img_024_placa.png
+
+Imagem anotada:
+resultados/processadas/img_024_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_024_*.png
+Relatório:
+resultados/relatorios/img_024_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 25 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_025.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 793 x 985 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (5 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 139 x 68 -> 136 x 71 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_025.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 344
+Y: 524
+Largura: 136
+Altura: 71
+Pontuação heurística: 0.930
+
+Arquivo gerado:
+resultados/placas/img_025_placa.png
+
+Imagem anotada:
+resultados/processadas/img_025_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_025_*.png
+Relatório:
+resultados/relatorios/img_025_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 26 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_026.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 800 x 1000 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 114 x 58 -> 115 x 58 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_026.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 320
+Y: 423
+Largura: 115
+Altura: 58
+Pontuação heurística: 0.876
+
+Arquivo gerado:
+resultados/placas/img_026_placa.png
+
+Imagem anotada:
+resultados/processadas/img_026_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_026_*.png
+Relatório:
+resultados/relatorios/img_026_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 27 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_027.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 720 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 183 x 67 -> 138 x 79 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_027.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 304
+Y: 583
+Largura: 138
+Altura: 79
+Pontuação heurística: 0.898
+
+Arquivo gerado:
+resultados/placas/img_027_placa.png
+
+Imagem anotada:
+resultados/processadas/img_027_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_027_*.png
+Relatório:
+resultados/relatorios/img_027_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 28 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_028.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 720 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 194 x 112 -> 191 x 112 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_028.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 303
+Y: 766
+Largura: 191
+Altura: 112
+Pontuação heurística: 0.941
+
+Arquivo gerado:
+resultados/placas/img_028_placa.png
+
+Imagem anotada:
+resultados/processadas/img_028_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_028_*.png
+Relatório:
+resultados/relatorios/img_028_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 29 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_029.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 174 x 98 -> 165 x 95 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_029.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 517
+Y: 585
+Largura: 165
+Altura: 95
+Pontuação heurística: 0.942
+
+Arquivo gerado:
+resultados/placas/img_029_placa.png
+
+Imagem anotada:
+resultados/processadas/img_029_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_029_*.png
+Relatório:
+resultados/relatorios/img_029_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 30 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_030.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 154 x 83 -> 150 x 84 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_030.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 746
+Y: 778
+Largura: 150
+Altura: 84
+Pontuação heurística: 0.883
+
+Arquivo gerado:
+resultados/placas/img_030_placa.png
+
+Imagem anotada:
+resultados/processadas/img_030_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_030_*.png
+Relatório:
+resultados/relatorios/img_030_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 31 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_031.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 720 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 154 x 78 -> 149 x 81 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_031.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 341
+Y: 648
+Largura: 149
+Altura: 81
+Pontuação heurística: 0.900
+
+Arquivo gerado:
+resultados/placas/img_031_placa.png
+
+Imagem anotada:
+resultados/processadas/img_031_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_031_*.png
+Relatório:
+resultados/relatorios/img_031_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 32 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_032.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1421 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 194 x 109 -> 191 x 105 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_032.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 614
+Y: 995
+Largura: 191
+Altura: 105
+Pontuação heurística: 0.900
+
+Arquivo gerado:
+resultados/placas/img_032_placa.png
+
+Imagem anotada:
+resultados/processadas/img_032_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_032_*.png
+Relatório:
+resultados/relatorios/img_032_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 33 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_033.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 750 x 552 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 163 x 84 -> 160 x 79 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_033.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 300
+Y: 390
+Largura: 160
+Altura: 79
+Pontuação heurística: 0.906
+
+Arquivo gerado:
+resultados/placas/img_033_placa.png
+
+Imagem anotada:
+resultados/processadas/img_033_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_033_*.png
+Relatório:
+resultados/relatorios/img_033_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 34 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_034.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1080 x 1350 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 226 x 114 -> 220 x 106 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_034.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 461
+Y: 908
+Largura: 220
+Altura: 106
+Pontuação heurística: 0.949
+
+Arquivo gerado:
+resultados/placas/img_034_placa.png
+
+Imagem anotada:
+resultados/processadas/img_034_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_034_*.png
+Relatório:
+resultados/relatorios/img_034_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 35 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_035.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3468 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 618 x 317 -> 616 x 276 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_035.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1383
+Y: 2511
+Largura: 616
+Altura: 276
+Pontuação heurística: 0.894
+
+Arquivo gerado:
+resultados/placas/img_035_placa.png
+
+Imagem anotada:
+resultados/processadas/img_035_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_035_*.png
+Relatório:
+resultados/relatorios/img_035_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 36 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_036.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 960 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 181 x 90 -> 171 x 85 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_036.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 295
+Y: 901
+Largura: 171
+Altura: 85
+Pontuação heurística: 0.775
+
+Arquivo gerado:
+resultados/placas/img_036_placa.png
+
+Imagem anotada:
+resultados/processadas/img_036_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_036_*.png
+Relatório:
+resultados/relatorios/img_036_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 37 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_037.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 151 x 85 -> 147 x 79 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_037.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 453
+Y: 789
+Largura: 147
+Altura: 79
+Pontuação heurística: 0.937
+
+Arquivo gerado:
+resultados/placas/img_037_placa.png
+
+Imagem anotada:
+resultados/processadas/img_037_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_037_*.png
+Relatório:
+resultados/relatorios/img_037_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 38 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_038.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2782 x 3606 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (14 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 574 x 286 -> 574 x 313 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_038.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1121
+Y: 1730
+Largura: 574
+Altura: 313
+Pontuação heurística: 0.920
+
+Arquivo gerado:
+resultados/placas/img_038_placa.png
+
+Imagem anotada:
+resultados/processadas/img_038_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_038_*.png
+Relatório:
+resultados/relatorios/img_038_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 39 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_039.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1993 x 2484 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 244 x 120 -> 237 x 137 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_039.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 819
+Y: 1291
+Largura: 237
+Altura: 137
+Pontuação heurística: 0.862
+
+Arquivo gerado:
+resultados/placas/img_039_placa.png
+
+Imagem anotada:
+resultados/processadas/img_039_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_039_*.png
+Relatório:
+resultados/relatorios/img_039_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 40 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_040.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2278 x 2803 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 252 x 109 -> 253 x 123 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_040.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1026
+Y: 1304
+Largura: 253
+Altura: 123
+Pontuação heurística: 0.924
+
+Arquivo gerado:
+resultados/placas/img_040_placa.png
+
+Imagem anotada:
+resultados/processadas/img_040_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_040_*.png
+Relatório:
+resultados/relatorios/img_040_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 41 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_041.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 722 x 692 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 88 x 43 -> 84 x 42 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_041.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 325
+Y: 419
+Largura: 84
+Altura: 42
+Pontuação heurística: 0.790
+
+Arquivo gerado:
+resultados/placas/img_041_placa.png
+
+Imagem anotada:
+resultados/processadas/img_041_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_041_*.png
+Relatório:
+resultados/relatorios/img_041_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 42 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_042.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2858 x 3788 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 481 x 235 -> 467 x 205 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_042.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1188
+Y: 2159
+Largura: 467
+Altura: 205
+Pontuação heurística: 0.959
+
+Arquivo gerado:
+resultados/placas/img_042_placa.png
+
+Imagem anotada:
+resultados/processadas/img_042_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_042_*.png
+Relatório:
+resultados/relatorios/img_042_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 43 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_043.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1181 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 220 x 111 -> 215 x 100 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_043.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 506
+Y: 1122
+Largura: 215
+Altura: 100
+Pontuação heurística: 0.952
+
+Arquivo gerado:
+resultados/placas/img_043_placa.png
+
+Imagem anotada:
+resultados/processadas/img_043_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_043_*.png
+Relatório:
+resultados/relatorios/img_043_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 44 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_044.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 2506 x 3666 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (5 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 496 x 252 -> 497 x 224 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_044.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1200
+Y: 2150
+Largura: 497
+Altura: 224
+Pontuação heurística: 0.966
+
+Arquivo gerado:
+resultados/placas/img_044_placa.png
+
+Imagem anotada:
+resultados/processadas/img_044_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_044_*.png
+Relatório:
+resultados/relatorios/img_044_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 45 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_045.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 3468 x 4624 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (3 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 587 x 286 -> 585 x 283 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_045.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 1319
+Y: 2147
+Largura: 585
+Altura: 283
+Pontuação heurística: 0.933
+
+Arquivo gerado:
+resultados/placas/img_045_placa.png
+
+Imagem anotada:
+resultados/processadas/img_045_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_045_*.png
+Relatório:
+resultados/relatorios/img_045_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 46 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_046.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 201 x 113 -> 193 x 100 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_046.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 518
+Y: 861
+Largura: 193
+Altura: 100
+Pontuação heurística: 0.920
+
+Arquivo gerado:
+resultados/placas/img_046_placa.png
+
+Imagem anotada:
+resultados/processadas/img_046_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_046_*.png
+Relatório:
+resultados/relatorios/img_046_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 47 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_047.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1874 x 2271 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 188 x 98 -> 186 x 97 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_047.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 855
+Y: 826
+Largura: 186
+Altura: 97
+Pontuação heurística: 0.931
+
+Arquivo gerado:
+resultados/placas/img_047_placa.png
+
+Imagem anotada:
+resultados/processadas/img_047_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_047_*.png
+Relatório:
+resultados/relatorios/img_047_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 48 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_048.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (1 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 193 x 98 -> 196 x 119 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_048.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 488
+Y: 604
+Largura: 196
+Altura: 119
+Pontuação heurística: 0.839
+
+Arquivo gerado:
+resultados/placas/img_048_placa.png
+
+Imagem anotada:
+resultados/processadas/img_048_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_048_*.png
+Relatório:
+resultados/relatorios/img_048_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 49 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_049.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 1200 x 1600 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (4 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 215 x 127 -> 219 x 139 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_049.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 548
+Y: 1004
+Largura: 219
+Altura: 139
+Pontuação heurística: 0.901
+
+Arquivo gerado:
+resultados/placas/img_049_placa.png
+
+Imagem anotada:
+resultados/processadas/img_049_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_049_*.png
+Relatório:
+resultados/relatorios/img_049_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 50 de 54
+
+[INFO] Arquivo selecionado:
+imagens/carros/img_050.jpg
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 720 x 1280 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Região candidata identificada (2 candidatas após filtros de geometria e textura).
+[OK] Bordas refinadas: 186 x 96 -> 186 x 90 pixels.
+
+[6/6] Extraindo placa...
+[OK] Extração concluída.
+
+===============================================
+RESULTADO
+
+Arquivo processado: img_050.jpg
+
+Placa encontrada: SIM
+
+Região identificada:
+X: 252
+Y: 806
+Largura: 186
+Altura: 90
+Pontuação heurística: 0.943
+
+Arquivo gerado:
+resultados/placas/img_050_placa.png
+
+Imagem anotada:
+resultados/processadas/img_050_processada.png
+Etapas intermediárias:
+resultados/intermediarias/img_050_*.png
+Relatório:
+resultados/relatorios/img_050_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 51 de 54
+
+[INFO] Arquivo selecionado:
+imagens/sem_veiculo/astronaut.png
+
+[INFO] Carregando imagem...
+libpng warning: iCCP: known incorrect sRGB profile
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 512 x 512 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: nenhuma candidata atingiu os critérios (0 avaliadas).
+
+[6/6] Extração não realizada: nenhuma candidata atingiu os critérios.
+
+===============================================
+RESULTADO
+
+Arquivo processado: astronaut.png
+
+Placa encontrada: NÃO
+
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+
+Imagem anotada:
+resultados/processadas/astronaut_processada.png
+Etapas intermediárias:
+resultados/intermediarias/astronaut_*.png
+Relatório:
+resultados/relatorios/astronaut_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 52 de 54
+
+[INFO] Arquivo selecionado:
+imagens/sem_veiculo/camera.png
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 512 x 512 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: nenhuma candidata atingiu os critérios (0 avaliadas).
+
+[6/6] Extração não realizada: nenhuma candidata atingiu os critérios.
+
+===============================================
+RESULTADO
+
+Arquivo processado: camera.png
+
+Placa encontrada: NÃO
+
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+
+Imagem anotada:
+resultados/processadas/camera_processada.png
+Etapas intermediárias:
+resultados/intermediarias/camera_*.png
+Relatório:
+resultados/relatorios/camera_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 53 de 54
+
+[INFO] Arquivo selecionado:
+imagens/sem_veiculo/coffee.png
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 600 x 400 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: nenhuma candidata atingiu os critérios (0 avaliadas).
+
+[6/6] Extração não realizada: nenhuma candidata atingiu os critérios.
+
+===============================================
+RESULTADO
+
+Arquivo processado: coffee.png
+
+Placa encontrada: NÃO
+
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+
+Imagem anotada:
+resultados/processadas/coffee_processada.png
+Etapas intermediárias:
+resultados/intermediarias/coffee_*.png
+Relatório:
+resultados/relatorios/coffee_resultado.properties
+
+===============================================
+===============================================
+[LOTE] Imagem 54 de 54
+
+[INFO] Arquivo selecionado:
+imagens/sem_veiculo/grass.png
+
+[INFO] Carregando imagem...
+[OK] Imagem carregada com sucesso.
+
+[INFO] Dimensões: 512 x 512 pixels.
+
+[INFO] Iniciando processamento...
+
+[1/6] Convertendo imagem para escala de cinza...
+[OK] Conversão concluída.
+
+[2/6] Aplicando filtro Gaussiano e ajuste local de contraste...
+[OK] Redução de ruídos e ajuste de contraste concluídos.
+
+[3/6] Detectando bordas...
+[OK] Bordas identificadas.
+
+[4/6] Aplicando operações morfológicas...
+[OK] Processamento morfológico concluído.
+
+[5/6] Analisando regiões candidatas...
+[OK] Análise concluída: nenhuma candidata atingiu os critérios (0 avaliadas).
+
+[6/6] Extração não realizada: nenhuma candidata atingiu os critérios.
+
+===============================================
+RESULTADO
+
+Arquivo processado: grass.png
+
+Placa encontrada: NÃO
+
+[RESULTADO] Nenhuma placa foi identificada nesta imagem.
+
+Imagem anotada:
+resultados/processadas/grass_processada.png
+Etapas intermediárias:
+resultados/intermediarias/grass_*.png
+Relatório:
+resultados/relatorios/grass_resultado.properties
+
+===============================================
+===============================================
+RESUMO DO LOTE
+
+Total de imagens: 54
+Placas encontradas: 49
+Sem placa identificada: 5
+Erros: 0
+
+Resumo do lote:
+resultados/lotes/lote_20261117_120943_773.csv
+
+===============================================
